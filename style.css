@@ -1,0 +1,40 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table td,
+th {
+    border: 1px solid purple;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: gray;
+}
+
+td {
+    background-color: black;
+    color: white
+}
+
+.container {
+    margin: 20px 0px 30px 35px;
+    justify-content: center;
+}
+
+button {
+    color: white;
+    background-color: darkblue;
+    height: 35px;
+    width: 85px
+}
+
+input {
+    height: 35px;
+}
